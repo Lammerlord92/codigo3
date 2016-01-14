@@ -33,6 +33,6 @@ public class AppTest
      */
     public void testApp()
     {
-        assertTrue( new App1().suma(2,2) == 4 );
+        assertTrue( false);
     }
 }
